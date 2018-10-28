@@ -1,4 +1,4 @@
-% The code has been prepared for the submission of Assignment 2 for EPS 615
+% The code has been prepared NR
 
 1. Put all the .m files in the same directory.
 
