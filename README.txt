@@ -1,4 +1,4 @@
-% The code has been prepared NR
+% The code has been prepared Newton Raphson Method
 
 1. Put all the .m files in the same directory.
 
